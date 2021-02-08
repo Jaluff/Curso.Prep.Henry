@@ -1,0 +1,12 @@
+    El bucle for, que es usado en muchos lenguajes, es usado para repetir un determinado código tantas veces como se requiera. 
+    Por ejemplo si no queres escribir muchas veces los mismo.. supongamos el conteo de cuantas manzanas hay en cajon, 
+    utilizaremos el bucle, o statement, for de manera que sumaría un 1 cada vez que ejecutase el código, 
+    o lo que es lo mismo cada vez que pase una manzana.
+
+    También existen los operadores lógicos, && (and o y), que nos indica que los dos datos, u operandos, situados a la izquierda y 
+    derecha del simbolo '&&' son iguales. En este caso nos devolverá verdadero, o lo que es lo mismo TRUE en inglés.
+    El otro operando es || que significa (or u O). Este operando nos dice que sera verdadero cuando alguno de los operandos de la 
+    derecha o izquierda seran verdaderos o TRUE. Solo nos devolveria FALSE cuando ambos operandos sean falsos.
+    Por ultimos el operados ! significa el contrario de lo que los operandos nos den como resultado. Es decir, 
+    si obtenemos un TRUE como respuesta a la comprobacion logicia lo cambiaria por FALSE y si obtuvieramos un FALSE como respuesta 
+    a la operacion logica lo cambiaria a TRUE, por lo tanto podemos decir que se realizaria la operación inversa de la comprobacion lógica.

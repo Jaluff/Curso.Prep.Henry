@@ -1,0 +1,4 @@
+Un array seria un connjunto de cajones donde podemos poner diferentes frutas, y los cuales tienen etiquetas o indices para diferenciarlos.
+En caja cajon podemos guardar lo que queramos y como están ordanados podemos buscar la fruta que quesieramos!
+Tambien podemos agregar nuevos cajones o tirar los que ya no nos sirvan.
+

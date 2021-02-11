@@ -1,0 +1,16 @@
+* Objetos
+    Se parecen mucho a los arrays, ya que pueden guardar variedad de tipos de datos, salvo una diferencia, estos guardan los datos con el concepto clave:valor en vez del indice:valor. 
+
+* Propiedades
+    cuando en la clave: "valor" se guarda un dato ( de cualquier tipo) y no una funcion se le llama propiedad.
+
+* Métodos
+    cuando en el campo "valor" se guarda una funcion se le denomina método.
+
+* Bucle `for…in`
+    Como al recorrer un objeto no tenemos indices numericos como en los arreglos, necesitamos de un bucle que puede iterar sobre el objeto y sus propiedades. Eso hace el statement 
+    for ( variable in objeto)
+
+* Notación de puntos vs notación de corchetes
+    
+

@@ -1,0 +1,7 @@
+Prototype: 
+    es el esqueleto del objeto , es deicir posee todos los metodos y propiedades del objeto. Como en 
+    JS todo es un objeto , entonces tambien obtenemos las propiedades y metodos del obj superior.
+
+
+Constructors: 
+    Es una fucnión especial que defino las propiedades y asigna valores de un objeto.

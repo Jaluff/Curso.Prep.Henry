@@ -1,0 +1,49 @@
+html {
+    font-family: Arial, 'PT Sans';
+}
+
+.content_flex {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 20px;
+    background: #efefef;
+    /*justify-content: center;*/
+
+}
+
+.content_flex div {
+    margin: 10px;
+    /*text-align: center;*/
+    justify-content: center;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 2px solid #ccc;
+    background: #efefef;
+    margin: 0 auto;
+}
+
+#thirdDiv img {
+    width: 400px;
+}
+
+#spanId {
+    font-size: 18px;
+}
+
+#deseos p {
+    font-style: italic;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.titulo {
+    margin-left: 50px;
+    font-size: 24px;
+    text-decoration: underline;
+}
